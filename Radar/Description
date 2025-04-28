@@ -1,0 +1,10 @@
+This was my first ever Adruino project where I attache an ultrasonic scanner to a servo moter to imitate a radar
+I attached a buzzer so everytime something is detected it will beep 
+
+Needs:
+Arduino board (Uno, Nano, etc.)
+Ultrasonic sensor (HC-SR04 is common)
+Servo motor
+Jumper wires
+
+Have Fun!
